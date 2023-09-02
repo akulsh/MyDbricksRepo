@@ -1,2 +1,2 @@
 # MyDbricksRepo
-Dbricks
+Dbricks Repo for DB notebooks and code.
